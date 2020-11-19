@@ -18,7 +18,7 @@ Utilizing VS Code I was able to write a script in Python that fulfilled all of t
 
 ### Results:
 
-![Screenshot](Screenshots/Fin1.jpg "Screenshot")
+![Screenshot](Screenshots/Fin1.JPG "Screenshot")
 
 
 ## PyPoll
@@ -38,4 +38,4 @@ The Python script will analyze the votes and calculate each of the following:
 Utilizing VS Code I was able to write a script in Python that fulfilled all of the above requirements.
 
 ### Results:
-![Screenshot](Screenshots/Poll1.jpg "Screenshot")
+![Screenshot](Screenshots/Poll1.JPG "Screenshot")
