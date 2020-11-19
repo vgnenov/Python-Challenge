@@ -12,7 +12,7 @@ The script should be able to analyze the records to calculate each of the follow
 -	The average of the changes in "Profit/Losses" over the entire period
 -	The greatest increase in profits (date and amount) over the entire period
 -	The greatest decrease in losses (date and amount) over the entire period
-- - Test
+- Test
 
 ### Process:
 Utilizing VS Code I was able to write a script in Python that fulfilled all of the above requirements.
