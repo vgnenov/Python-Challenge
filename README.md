@@ -32,7 +32,7 @@ The Python script will analyze the votes and calculate each of the following:
 -  A complete list of candidates who received votes
 -  The percentage of votes each candidate won
 -  The total number of votes each candidate won
--  The winner of the election based on popular vote.
+-  The winner of the election based on popular vote
 
 ### Process:
 Utilizing VS Code I was able to write a script in Python that fulfilled all of the above requirements.
